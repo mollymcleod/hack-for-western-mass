@@ -1,4 +1,4 @@
 hack-for-western-mass
 =====================
 
-Design and marketing materials for Hack for Western Mass
+See design and marketing materials for Hack for Western Mass here: https://github.com/hackforwesternmass/hackforwesternma-docs
